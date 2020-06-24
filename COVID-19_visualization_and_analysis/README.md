@@ -28,7 +28,7 @@ preparation in the foreseeing infection.
 * interactive charts
 * Compare with current event
 * Analyze potential factors:correlation with mobility and testing
-##### wait...
+
 * Term Frequency
 * wordcloud
 * Sentiment Analysis
@@ -56,9 +56,9 @@ preparation in the foreseeing infection.
 
 4.COVID-19 in Taiwan: https://colab.research.google.com/drive/1BOxV6mg1zCUYZz0z2J9OtjKgZkQpGBKP?usp=sharing
 
-5.Tweets...code wait
+5.Tweets Social Media Analysis: https://colab.research.google.com/drive/1gnvvibe1rjTQOlRPjCRK-OpAkzOO0fbV#scrollTo=f_V20fc9XYUy
 
-6.distilbert Tweets analysis: https://colab.research.google.com/drive/1sB3kTAf98hbAvQxKZDrEKUEs1s1vGNIk?usp=sharing
+6.distilbert Tweets Sentiment analysis: https://colab.research.google.com/drive/1sB3kTAf98hbAvQxKZDrEKUEs1s1vGNIk?usp=sharing
 
 ### 5. Conclusions
 * COVID-19 visualization, mobility and testing analysis
@@ -75,3 +75,5 @@ iv.COVID-19 impact on Economic, entertainment and transportation....
 1.Taiwan data: https://docs.google.com/spreadsheets/d/11WYQAgXQC_QOK65SyRyIINKhIWv66TE0gtGdcShSMyc/edit?usp=sharing
 
 2.Global_Mobility_Report: https://drive.google.com/file/d/1QbhkdWxoDopSHCltr71YEQYF5OF8JWgr/view?usp=sharing
+
+3.final report: https://drive.google.com/file/d/1EUBJuMbwyUWh7mOkNU3Yjm9OBxL6d0CE/view?usp=sharing
