@@ -58,6 +58,8 @@ preparation in the foreseeing infection.
 
 5.Tweets...code wait
 
+6.distilbert Tweets analysis: https://colab.research.google.com/drive/1sB3kTAf98hbAvQxKZDrEKUEs1s1vGNIk?usp=sharing
+
 ### 5. Conclusions
 * COVID-19 visualization, mobility and testing analysis
 and Epidemic situation
